@@ -6,7 +6,7 @@
 #include <WiFiClientSecure.h>
 
 const char* ssid     = "iPhone";
-const char* password = "Anu096279";
+const char* password = "........";
 
 //ip host
 const char* host = "google.com";
